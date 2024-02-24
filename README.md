@@ -38,7 +38,7 @@ different roadmaps for data science related topics
   -  https://github.com/campusx-official/ML-Roadmap-for-2022/blob/main/README.md
   ### _Resources_
   -  see Roadmap github link
-## Ml_2024 Roadmap
+## ML_2024 Roadmap
   ### _Roadmap_
   -  https://youtu.be/CAlfPNOkweQ?si=0tQTwpRDsW6KNxX8
   ### _Resources_
