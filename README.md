@@ -1,2 +1,2 @@
-# DS_Roadmap
-different roadmaps for data science related topics
+# Data Analyst Roadmap
+different roadmaps for data Analyst related topics
