@@ -3,7 +3,7 @@ different roadmaps for data science related topics
 ### _Projects_
   - https://github.com/setwin/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code.git
 ### _Serving your model(Est. time - 1 Week)_
-         1. Pickling your model - https://www.youtube.com/watch?v=yY1FXX_GSco
+-  1. Pickling your model - https://www.youtube.com/watch?v=yY1FXX_GSco
          2. Flask Tutorial - https://www.youtube.com/watch?v=swHI1H7DVsQ
          3. Streamlit Tutorial - https://www.youtube.com/watch?v=Klqn--Mu2pE
          4. Deploy model on Heroku - https://www.youtube.com/watch?v=YncZ0WwxyzU
