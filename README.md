@@ -5,7 +5,7 @@ different roadmaps for data science related topics
   - https://docs.google.com/presentation/d/1qBuSRxfgB9tHblujcOrtRawKLhs0zZDEdqOVhVokXBw/edit
 ## SQL Roadmap
 *  ### _Roadmap_
-*    https://youtu.be/FGBme8dWR_M?si=UpJLn9CR0RxVc3_d
+  * https://youtu.be/FGBme8dWR_M?si=UpJLn9CR0RxVc3_d
   - https://docs.google.com/presentation/d/1qBuSRxfgB9tHblujcOrtRawKLhs0zZDEdqOVhVokXBw/edit#slide=id.gf65335f531_0_0
 *  ### _Resouces_
   -  https://docs.google.com/document/d/1wCALgWubTOvuvlXJ3Eweh7AgJj4sPq2pW92y3viPZbs/edit?usp=sharing
